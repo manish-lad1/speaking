@@ -25,7 +25,7 @@ Using three live demos in Claude Code, the talk walks through the five-layer AI 
 
 ## Deck
 
-📄 [Download the slide deck](./mcp-vs-agent-skills.pdf)
+📄 [Download the slide deck](./MCP_Tools_vs_Agent_Skills.pdf)
 
 ---
 
