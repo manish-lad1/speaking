@@ -1,6 +1,6 @@
 # MCP vs Agent Skills — When to Use What
 
-**Event:** PUG Tech Talks  
+**Event:** PUG Tech Talk  
 **Date:** 20th June 2026  
 **Speaker:** Manish Lad
 
