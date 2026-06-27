@@ -10,7 +10,7 @@ I speak on the practical side of building AI products — the decisions, trade-o
 
 | Talk | Folder |
 |---|---|
-| MCP vs Agent Skills — When to Use What | [`mcp-vs-agent-skills/`](./mcp-vs-agent-skills/) |
+| Extending AI Agents: MCP vs Agent Skills — When to Use What | [`mcp-vs-agent-skills/`](./mcp-vs-agent-skills/) |
 
 ---
 
