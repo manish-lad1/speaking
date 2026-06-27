@@ -2,7 +2,8 @@
 
 **Event:** PUG Tech Talk  
 **Date:** 20th June 2026  
-**Speaker:** Manish Lad
+**Speaker:** Manish Lad  
+**Location:** Pune
 
 ---
 
