@@ -1,4 +1,5 @@
-# MCP vs Agent Skills — When to Use What
+# Extending AI Agents: MCP Tools vs Agent Skills
+**Subtitle:** When to use what — and why it matters
 
 **Event:** PUG Tech Talk  
 **Date:** 20th June 2026  
@@ -9,13 +10,16 @@
 
 ## Abstract
 
-MCP servers and Agent Skills are both ways to extend AI agents — but they solve different problems, sit at different layers, and suit different use cases. This session cuts through the confusion with a practical framework for AI PMs and developers choosing between them.
+Most teams building with AI agents hit the same two walls: the agent can't reach external systems, or it can — but the output is generic and unusable. This session diagnoses both problems and shows you exactly which layer to fix.
+
+Using three live demos in Claude Code, the talk walks through the five-layer AI agent stack, then goes deep on layer 3 (Tools via MCP) and layer 4 (Skills via SKILL.md) — showing what breaks without each, and what changes when you add them.
 
 **What this session covers:**
-- What MCP servers are and what problems they solve
-- What Agent Skills are and how they differ
-- A decision framework for choosing between them
-- Real-world examples of each in production
+- The five-layer AI agent stack — and why layers 3 and 4 are where most teams struggle
+- MCP: what it is, how it works, and what becomes possible with it
+- Agent Skills (SKILL.md): structured context injection that governs agent behaviour
+- A practical decision framework — diagnose by symptom, fix at the right layer
+- Live demo: PRD → Jira tickets, no tools → MCP → MCP + Skill
 
 ---
 
