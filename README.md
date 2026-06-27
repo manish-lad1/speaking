@@ -1,6 +1,6 @@
 # Speaking
 
-Slide decks and resources from my public sessions on AI product management.
+Slide decks and resources from my public sessions on AI.
 
 I speak on the practical side of building AI products — the decisions, trade-offs, and frameworks that PMs actually need. All decks are open to use and share with attribution (CC BY 4.0).
 
