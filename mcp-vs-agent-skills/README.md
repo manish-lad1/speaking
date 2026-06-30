@@ -34,6 +34,7 @@ Using three live demos in Claude Code, the talk walks through the five-layer AI 
 This session is part of the MCP series on my newsletter *AI from the Inside*:
 - [Article 1 — MCP - The Protocol That's Quietly Changing How AI Agents Work](https://manishlad.substack.com/p/mcp-the-protocol-thats-quietly-changing)
 - [Article 2 — Agent Skills — Giving Your AI the Recipe, Not Just the Arms](https://manishlad.substack.com/p/agent-skills-giving-your-ai-the-recipe)
+- [Article 3 — MCP and Agent Skills aren't either/or. Here's how they work together](https://manishlad.substack.com/p/mcp-and-agent-skills-arent-eitheror)
 
 ---
 
