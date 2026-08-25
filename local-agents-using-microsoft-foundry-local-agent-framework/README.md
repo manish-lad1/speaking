@@ -29,7 +29,7 @@ Developers and product folks working on AI agents, anyone weighing on-device aga
 
 | | |
 |---|---|
-| 📊 **Slides (PDF)** | [slides.pdf](./Building AI Agents with Microsoft Foundry Local & Agent Framework.pdf) — renders inline on GitHub |
+| 📊 **Slides (PDF)** | [slides.pdf](./Building_AI_Agents_with_Microsoft_Foundry_Local_&_Agent_Framework.pdf) — renders inline on GitHub |
 | 📊 **Slides (PPTX)** | [slides.pptx](./Building_AI_agents_with_Foundry_Local_Agent_Framework.pptx) |
 | 💻 **Demo code** | [https://github.com/manish-lad1/ai-apps/tree/main/pipeline_apps/document_triage_pipeline] |
 
