@@ -12,6 +12,7 @@ I speak on the practical side of building AI products — the decisions, trade-o
 |---|---|
 | Extending AI Agents: MCP vs Agent Skills — When to Use What | [`mcp-vs-agent-skills/`](./mcp-vs-agent-skills/) |
 | Building Local-First Agents with Microsoft Foundry Local & Agent Framework | [`local-agents-using-microsoft-foundry-local-agent-framework/`](./local-agents-using-microsoft-foundry-local-agent-framework/) |
+| Agent, Pipeline, or Crew? How I Choose Multi-Agent Patterns with Microsoft Agent Framework | [`agent-pipeline-or-crew/`](./agent-pipeline-or-crew/) |
 
 ---
 
