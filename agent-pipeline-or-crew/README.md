@@ -35,8 +35,8 @@ This session runs one task live through the three patterns I use to classify mul
 
 ## Related reading
 
-- [Building Local-First Agents with Microsoft Foundry Local & Agent Framework](../local-agents-using-microsoft-foundry-local-agent-framework/) — the August session this one builds on
-- The full write-up of this talk, *Agent, Pipeline, or Crew?*, is coming to [AI from the Inside](https://manishlad.substack.com) on Tuesday, 27th October 2026
+This session is part of my newsletter *AI from the Inside*:
+- [Agent, Pipeline, or Crew? How To Choose Multi-Agent Patterns](https://manishlad.substack.com/p/agent-pipeline-or-crew-how-to-choose))
 
 ---
 
